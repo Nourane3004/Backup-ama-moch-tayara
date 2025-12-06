@@ -1,0 +1,17 @@
+asyncio
+qdrant-client[fastembed]
+sentence-transformers
+numpy
+pandas
+requests
+python-dotenv
+statsmodels
+yfinance
+sentence_transformers
+arch
+xgboost
+lightgbm
+plotly
+alpha_vantage
+openai
+seaborn

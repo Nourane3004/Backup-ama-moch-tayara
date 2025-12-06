@@ -1,0 +1,154 @@
+{
+  "executive_summary": {
+    "current_assessment": "Régime de marché: TRANSITION",
+    "strategic_view": "ATTENTISME",
+    "key_message": "Positionnement neutre, attendre confirmation",
+    "confidence_level": "moyenne",
+    "time_horizon": "medium",
+    "primary_risks": [
+      {
+        "risk": "Reserrement monétaire",
+        "probability": "MOYENNE",
+        "impact": "MOYEN"
+      }
+    ],
+    "main_opportunities": [
+      {
+        "opportunity": "Diversification",
+        "rationale": "Approche équilibrée dans environnement incertain"
+      }
+    ]
+  },
+  "user_profile": {
+    "country_focus": "US",
+    "analysis_horizon": "medium",
+    "risk_tolerance": "moderate",
+    "investment_universe": [
+      "equities",
+      "bonds",
+      "commodities"
+    ]
+  },
+  "data_overview": {
+    "economic_indicators_count": 6,
+    "market_data_count": 8,
+    "last_updated": "2025-12-06T16:58:08.303631"
+  },
+  "regime_analysis": {
+    "current_regime": "transition",
+    "scores": {
+      "growth": 1,
+      "inflation": -1,
+      "risk": 0
+    },
+    "indicators": {
+      "gdp_growth": 2.7,
+      "cpi_inflation": 3.1,
+      "vix": 15.40999984741211,
+      "fed_stance": "hawkish"
+    },
+    "confidence": "moyenne",
+    "duration_estimate": "1-3 mois"
+  },
+  "quantitative_analysis": {
+    "var_model": null,
+    "factor_model": null
+  },
+  "recommendations": {
+    "strategic_view": {
+      "view": "ATTENTISME",
+      "rationale": "Signaux contradictoires, changement de régime probable",
+      "key_message": "Positionnement neutre, attendre confirmation"
+    },
+    "asset_allocation": {
+      "Equities": 60,
+      "Bonds": 30,
+      "Commodities": 5,
+      "Cash": 5
+    },
+    "sector_recommendations": {
+      "OVERWEIGHT": [
+        "Technology",
+        "Healthcare"
+      ],
+      "NEUTRAL": [
+        "All other sectors"
+      ],
+      "UNDERWEIGHT": []
+    },
+    "geographic_exposure": {
+      "Domestic": 60,
+      "Developed ex-US": 25,
+      "Emerging Markets": 15
+    },
+    "risk_management": [
+      {
+        "action": "Maintenir hedges existants",
+        "rationale": "Environnement de risque stable"
+      }
+    ],
+    "monitoring_signals": [
+      {
+        "type": "ECONOMIC",
+        "signal": "Prochaine publication CPI",
+        "threshold": "> 3.5% (hawkish) ou < 2.5% (dovish)",
+        "impact": "HAUT"
+      },
+      {
+        "type": "ECONOMIC",
+        "signal": "Rapport emploi US",
+        "threshold": "Taux chômage > 4.0%",
+        "impact": "MOYEN"
+      },
+      {
+        "type": "GEOPOLITICAL",
+        "signal": "Tensions: Middle East, Ukraine",
+        "threshold": "Escalade significative",
+        "impact": "HAUT"
+      }
+    ],
+    "actionable_insights": [
+      {
+        "priority": "HIGH",
+        "action": "Revoir allocation selon nouveau régime",
+        "timing": "Immédiat",
+        "details": "Adapter l'allocation au régime transition"
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Préparer rotation sectorielle",
+        "timing": "1-3 mois",
+        "details": "Se positionner pour le prochain cycle"
+      }
+    ]
+  },
+  "risk_assessment": {
+    "risk_score": 0,
+    "risk_level": "FAIBLE",
+    "risk_factors": [],
+    "recommendation": "Maintenir position"
+  },
+  "next_steps": [
+    {
+      "step": 1,
+      "action": "Implémenter les recommandations d'allocation",
+      "timeline": "1-2 semaines"
+    },
+    {
+      "step": 2,
+      "action": "Mettre en place les hedges recommandés",
+      "timeline": "Immédiat"
+    },
+    {
+      "step": 3,
+      "action": "Surveiller les signaux clés identifiés",
+      "timeline": "Continue"
+    },
+    {
+      "step": 4,
+      "action": "Revoir l'analyse dans 1 mois ou si changement majeur",
+      "timeline": "1 mois"
+    }
+  ],
+  "timestamp": "2025-12-06T15:58:08.465080+00:00"
+}
